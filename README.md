@@ -57,4 +57,4 @@ This is a FastAPI-based User Management Service that includes features such as u
 
 ## Notes
 - There will be a file `Users Management System.postman_collection.json` in the root folder for Postman to use all the endpoints.
-
+- or open this link http://localhost:8000/docs and check the endpoint through it 
